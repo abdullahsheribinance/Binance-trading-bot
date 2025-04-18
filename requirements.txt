@@ -1,0 +1,3 @@
+﻿ccxt
+requests
+schedule
